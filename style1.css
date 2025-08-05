@@ -12,20 +12,20 @@ body {
   margin-bottom: 20px;
   font-family: 'Arial', sans-serif;
   font-size: 20px;
-  color: #6A4B18;
-  background-color: #F0E4D0;
+  color: #333;
+  background-color: #ffe4e1;
   padding: 10px;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   width: fit-content;
   margin-left: auto;
   margin-right: auto;
-  border: 2px solid #553C13;
+  border: 2px solid #ffb6c1;
 }
 
 .candle-count-display span {
   font-weight: bold;
-  color: #AD030F;
+  color: #a86771;
 }
 
 .cake {
@@ -128,7 +128,7 @@ body {
 }
 
 .candle {
-  background-color: #7B020B;
+  background-color: #ffb6c1;
   width: 12px;
   height: 35px;
   border-radius: 6px/3px;
@@ -145,7 +145,7 @@ body {
   width: 12px;
   height: 6px;
   border-radius: 50%;
-  background-color: #ad030f;
+  background-color: #c58e97;
 }
 
 .candle.out .flame {
